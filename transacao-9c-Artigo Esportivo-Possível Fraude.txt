@@ -1,0 +1,15 @@
+Com base no status e nos detalhes fornecidos para a transação de id "9c", recomenda-se adotar a seguinte ação:
+
+**Ação Recomendada:** Realizar Verificação Manual
+
+**Justificativa:** A transação foi sinalizada como "Possível Fraude" devido à natureza atípica da compra, unindo um valor significativamente alto a um padrão inesperado de consumo para esse tipo de estabelecimento e localização. Além disso, o parecer indica uma discrepância com o perfil habitual de gastos do titular do cartão, o que justifica uma intervenção cuidadosa.
+
+**Procedimento:** Iniciar um protocolo de verificação manual pelo qual a equipe responsável deve:
+
+1. Entrar em contato diretamente com o titular do cartão para confirmar a realização desta transação específica.
+2. Avaliar o histórico recente de transações do titular para identificar quaisquer outras atividades atípicas ou padrões de compra inconsistentes.
+3. Consultar o estabelecimento comercial para garantir a autenticidade da transação e obter detalhes adicionais sobre a compra, se necessário.
+4. No caso de confirmação de fraude pelo titular do cartão,
+    - Acionar o setor Anti-Fraude para medidas subsequentes,
+    - Notificar as autoridades competentes,
+    - Proceder com o estorno 
